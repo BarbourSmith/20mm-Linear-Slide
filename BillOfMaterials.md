@@ -2,7 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|20MM Linear Slide|1|$3.00|www.example.com|
-|Total: |1|$3.00| |
+|20MM Linear Slide|2|$3.00|www.example.com|
+|Total: |2|$3.00| |
 
  3xCOG MSRP: $9.00

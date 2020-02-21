@@ -4,12 +4,3 @@
 
 ![](/project.svg)
 
-## 20mm Linear Slide
-
-
-## cutaways
-
-
-undefined
-
-
